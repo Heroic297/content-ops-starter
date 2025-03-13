@@ -59,11 +59,19 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: The key to success is never cookie cutter and never will be.
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Owen and Tristan are not only experienced lifters but accomplished
+      athletes who have put their bodies to the test time and time again. Over
+      the years, they've developed deep insights into what leads to success
+      across multiple aspects of physical fitness. They've mastered the art of
+      proper nutrition to fuel workouts that will guide you precisely in the
+      direction you want to go.
+
+
+      Their combined expertise spans strength training, endurance conditioning,
+      mobility work, and nutritional science. This comprehensive approach
+      ensures clients receive well-rounded guidance that addresses all aspects
+      of physical development and wellness.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
