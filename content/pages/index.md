@@ -85,7 +85,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: W
+      label: Why Next Level Fitness?
       color: text-primary
       styles:
         self:
