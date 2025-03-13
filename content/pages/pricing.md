@@ -15,8 +15,17 @@ sections:
         price: $30
         details: per month
         description: >
-          This tier includes custom programs tailored towards your own personal
-          needs
+          The Essentials package is your gateway to structured, results-driven
+          fitness with a personalized touch. This tier features a completely
+          custom-tailored training program designed specifically for your body,
+          goals, and available equipment. Unlike cookie-cutter plans, we assess
+          your movement patterns, strength baselines, and recovery capacity to
+          create a progressive program that evolves as you do. You'll receive
+          monthly program updates, access to our form technique library, and
+          bi-monthly check-ins to ensure you're on track. The Essentials tier is
+          perfect for self-motivated individuals who need expert programming but
+          are comfortable managing their nutrition independently and require
+          less frequent coaching interaction.
         features: []
         image:
           url: /images/abstract-feature1.svg
