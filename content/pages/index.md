@@ -97,7 +97,7 @@ sections:
       type: TitleBlock
     subtitle: 'You can contact us at:'
     text: |
-      Email us at: nextlevelfitness.com\@gmail.com
+      Email: <nextlevelfitness.com@gmail.com>
 
       Call or text us at: +1 (717)-910-8813
     actions: []
