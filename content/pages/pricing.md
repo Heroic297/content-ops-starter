@@ -17,8 +17,7 @@ sections:
         description: >
           This tier includes custom programs tailored towards your own personal
           needs
-        features:
-          - Feature one
+        features: []
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
