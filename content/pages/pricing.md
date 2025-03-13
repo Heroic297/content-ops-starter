@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: Pricing to fit your own personal needs
     plans:
-      - title: Developers
+      - title: Essentials
         price: $30
         details: per month
         description: >
