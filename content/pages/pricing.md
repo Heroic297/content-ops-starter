@@ -47,7 +47,6 @@ sections:
           accusantium doloremque.
         features:
           - Feature one
-          - Feature two
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
