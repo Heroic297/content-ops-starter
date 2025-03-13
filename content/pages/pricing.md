@@ -42,9 +42,9 @@ sections:
       - title: Professional
         price: $40
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          This tier includes a custom diet in addition to the custom training
+          program both tailored to your specific needs and goals
         features: []
         image:
           url: /images/abstract-feature2.svg
