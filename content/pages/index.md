@@ -96,11 +96,10 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: 'You can contact us at:'
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |
+      Email us at: nextlevelfitness.com\@gmail.com
+
+      Call or text us at: +1 (717)-910-8813
     actions: []
     media:
       title: Title of the video
