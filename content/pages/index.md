@@ -9,9 +9,8 @@ sections:
       type: TitleBlock
     subtitle: Owen G. and Trsitan B.
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Two experienced individuals that are passionate in what they do and want
+      nothing more than the success and improvement of their clients
     actions:
       - label: Get started
         altText: ''
