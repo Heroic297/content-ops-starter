@@ -52,8 +52,18 @@ sections:
         price: $40
         details: per month
         description: >
-          This tier includes a custom diet in addition to the custom training
-          program both tailored to your specific needs and goals
+          Step up to our Premium tier and experience the game-changing
+          combination of customized training AND nutrition. Beyond the
+          personalized workout programming of our Essentials package, the
+          Premium tier introduces a comprehensive nutritional strategy tailored
+          to your metabolic needs, food preferences, and specific goals. Your
+          nutrition plan isn't just about calories and macros—we address meal
+          timing, food quality, and sustainable eating habits that complement
+          your training cycles. Premium members enjoy bi-weekly check-ins,
+          priority email support, and personalized video form analysis on key
+          lifts. This synergistic approach to training and nutrition creates the
+          optimal environment for body composition changes, performance
+          improvements, and consistent progress without guesswork.
         features: []
         image:
           url: /images/abstract-feature2.svg
