@@ -89,7 +89,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Start today!
       color: text-dark
       styles:
         self:
