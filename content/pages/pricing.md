@@ -39,7 +39,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Professional
+      - title: Premium
         price: $40
         details: per month
         description: >
