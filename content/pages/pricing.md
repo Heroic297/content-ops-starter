@@ -14,9 +14,9 @@ sections:
       - title: Developers
         price: $30
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          This tier includes custom programs tailored towards your own personal
+          needs
         features:
           - Feature one
           - Feature two
