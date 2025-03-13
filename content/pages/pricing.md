@@ -90,9 +90,22 @@ sections:
         price: $60
         details: per month
         description: >
-          This premium tier includes in addition to the two previous tiers,
-          technique building session to make sure you're getting the most out of
-          what you are doing.  Not only that, but 
+          The Elite tier represents the pinnacle of coaching support and
+          personalized attention, delivering a truly concierge fitness
+          experience. In addition to everything in the Premium package, Elite
+          members receive weekly 1-on-1 coaching calls with either Owen or
+          Tristan to discuss strategy, overcome challenges, and refine technique
+          in real-time. Your programming becomes even more responsive with
+          weekly adjustments based on your feedback, recovery metrics, and
+          performance data. The Elite nutritional approach includes advanced
+          periodization strategies, supplement timing protocols, and reactive
+          adjustments based on your body's responses. You'll gain 24/7 direct
+          access to your coaches via text for immediate guidance, comprehensive
+          monthly progress analyses with forward-looking planning, and exclusive
+          access to our high-performance community of like-minded Elite members.
+          For those who demand the absolute best guidance and support in their
+          fitness journey, the Elite tier delivers uncompromising results
+          through unparalleled attention.
         features: []
         image:
           url: /images/abstract-feature3.svg
