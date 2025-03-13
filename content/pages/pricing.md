@@ -12,7 +12,7 @@ sections:
     subtitle: Pricing to fit your own personal needs
     plans:
       - title: Developers
-        price: Free
+        price: $30
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
