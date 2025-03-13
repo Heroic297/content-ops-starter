@@ -70,9 +70,10 @@ sections:
       - title: Enterprise
         price: $60
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: >
+          This premium tier includes in addition to the two previous tiers,
+          technique building session to make sure you're getting the most out of
+          what you are doing.  Not only that, but 
         features: []
         image:
           url: /images/abstract-feature3.svg
